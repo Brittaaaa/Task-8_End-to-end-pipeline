@@ -1,0 +1,4 @@
+Model: Logistic Regression
+Dataset: Iris
+Accuracy: 1.0
+Random State: 42
