@@ -1,0 +1,34 @@
+Task 9 - Hyperparameter Tuning Results
+
+Model Used:
+Random Forest Classifier
+
+
+Baseline Model Accuracy:
+1.0
+
+
+Hyperparameter Tuning Method:
+GridSearchCV
+
+
+Cross Validation:
+2-fold Cross Validation
+
+
+Best Parameters:
+(Add your output from grid.best_params_ here)
+
+
+Best CV Score:
+(Add your output from grid.best_score_ here)
+
+
+Tuned Model Accuracy:
+(Add your tuned accuracy here)
+
+
+Conclusion:
+Hyperparameter tuning was performed using GridSearchCV.
+The best parameters were selected based on cross-validation performance
+and the tuned model was evaluated on unseen test data.

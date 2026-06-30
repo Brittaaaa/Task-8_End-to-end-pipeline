@@ -68,3 +68,19 @@ python run_pipeline.py
 ## Result
 
 The pipeline produces reproducible results using a fixed random state.
+
+## Task 9 - Hyperparameter Tuning
+
+Hyperparameter tuning was performed using GridSearchCV on a Random Forest Classifier.
+
+Steps performed:
+- Created a baseline model
+- Selected important hyperparameters
+- Applied GridSearchCV with cross-validation
+- Selected the best configuration
+- Evaluated the tuned model on test data
+
+Results:
+- Baseline Accuracy: 1.0
+- Tuned Accuracy: (add your value)
+- Best Parameters: (add your parameters)
