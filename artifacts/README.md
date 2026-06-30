@@ -82,5 +82,5 @@ Steps performed:
 
 Results:
 - Baseline Accuracy: 1.0
-- Tuned Accuracy: (add your value)
-- Best Parameters: (add your parameters)
+- Tuned Accuracy: 1.0
+- Best Parameters:{'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 50}

@@ -17,15 +17,15 @@ Cross Validation:
 
 
 Best Parameters:
-(Add your output from grid.best_params_ here)
+{'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 50}
 
 
 Best CV Score:
-(Add your output from grid.best_score_ here)
+0.6666666666666666
 
 
 Tuned Model Accuracy:
-(Add your tuned accuracy here)
+1.0
 
 
 Conclusion:

@@ -131,3 +131,18 @@ The complete ML workflow will run automatically and generate the required artifa
 
 ## Result
 
+## Task 9 - Hyperparameter Tuning
+
+Hyperparameter tuning was performed using GridSearchCV on a Random Forest Classifier.
+
+Steps performed:
+- Created a baseline model
+- Selected important hyperparameters
+- Applied GridSearchCV with cross-validation
+- Selected the best configuration
+- Evaluated the tuned model on test data
+
+Results:
+- Baseline Accuracy: 1.0
+- Tuned Accuracy: 1.0
+- Best Parameters:{'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 50}
